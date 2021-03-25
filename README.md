@@ -1,1 +1,1 @@
-# NeuroProject
+# NeuronProject
